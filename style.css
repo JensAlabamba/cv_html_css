@@ -13,10 +13,19 @@ body {
     box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
+main {
+    padding: 88px;
+}
+
+.colorize {
+    color: #fb6d3a;
+}
+
 aside {
     background: #1e2939;
 }
 
 .side_text {
     color: #fff;
+    margin: 40px;
 }

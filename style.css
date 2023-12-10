@@ -3,6 +3,10 @@ body {
     background: #f5f7fa;
 }
 
+.wrapper {
+    display: flex;
+}
+
 aside {
     background: #1e2939;
 }

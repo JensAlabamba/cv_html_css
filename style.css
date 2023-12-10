@@ -5,6 +5,12 @@ body {
 
 .wrapper {
     display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: center;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
 aside {

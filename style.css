@@ -14,18 +14,11 @@ body {
 }
 
 main {
-    padding: 88px;
+    padding: 67px 88px 102px 88px;
 }
 
 .colorize {
     color: #fb6d3a;
-}
-
-.colorize_ul {
-    color: #fb6d3a;
-    margin-left: 0;
-    padding-left: 0;
-    list-style-position: inside;
 }
 
 aside {
@@ -84,4 +77,75 @@ aside {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+
+.colorize_ul {
+    color: #fb6d3a;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.tech_li {
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.main_description {
+    width: 400px;
+    color: #595959;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 40px;
+}
+
+.job_description {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h1 {
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.projects {
+    width: 400px;
+    margin-bottom: 51px;
+}
+
+.pro_list {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+    margin-top: 8px;
+}
+
+.pro_list_item {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: none;
+}
+
+.pro_li {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
 }

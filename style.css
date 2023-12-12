@@ -190,3 +190,25 @@ h1 {
     padding-left: 0;
     list-style-position: inside;
 }
+
+.education {
+    margin-top: 43px;
+}
+
+.university {
+    color: #fb6d3a;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+.course {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}

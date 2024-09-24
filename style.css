@@ -138,7 +138,7 @@ h1 {
 }
 
 .certificate {
-    text-decoration-line: none;
+    /* text-decoration-line: none; */
     color: #fff;
 }
 

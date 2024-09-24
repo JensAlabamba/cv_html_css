@@ -59,6 +59,7 @@ aside {
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
+    text-decoration-line: none;
 }
 
 .tech_block {
@@ -136,12 +137,16 @@ h1 {
     margin-top: 8px;
 }
 
+.certificate {
+    text-decoration-line: none;
+    color: #fff;
+}
+
 .pro_list_item {
     color: #595959;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
-    text-decoration-line: none;
 }
 
 .pro_li {
